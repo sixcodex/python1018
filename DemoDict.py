@@ -33,3 +33,8 @@ def intersect(prelist, postlist):
 
 #함수 호출
 print( intersect("HAM", "SPAM"))
+
+def times(a,b):
+    return a*b
+
+print( times(5,4) )
