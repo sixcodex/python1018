@@ -15,3 +15,6 @@ for k,v in device.items():
     print(k,v)
     
 
+phone = {"kim":"111", "lee":"2222"}
+p=phone
+print(p)
