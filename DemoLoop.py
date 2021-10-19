@@ -16,3 +16,8 @@ else :
     grade = "D"
 
 print("등급은:",grade)
+
+lst = [1,2,3,4,5]
+for item in map(lambda i:i+10, lst):
+    print(item)
+    
